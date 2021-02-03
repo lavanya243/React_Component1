@@ -1,2 +1,2 @@
-# React_Component1
+# React_Component
 Created with CodeSandbox
